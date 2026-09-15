@@ -1,6 +1,10 @@
 # Datos descargados (dataset MNIST)
 data/
 
+# Modelos entrenados
+mejor_modelo.pt
+*.pt
+
 # Python
 __pycache__/
 *.py[cod]
