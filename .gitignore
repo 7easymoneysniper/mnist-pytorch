@@ -1,0 +1,21 @@
+# Datos descargados (dataset MNIST)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
